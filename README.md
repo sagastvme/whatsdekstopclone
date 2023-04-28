@@ -1,24 +1,3 @@
-# vue-project
+This is a clone of the popular website Whatsapp Desktop Version. Using Vuejs and Tailwind.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+You can visit it in  https://whatsdeskclone.web.app
