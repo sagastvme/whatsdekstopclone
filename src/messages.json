@@ -1,0 +1,94 @@
+{
+  "messages": [
+    {
+      "sender": "Alice",
+      "content": "Hey, how's it going?",
+      "status": "read",
+      "timestamp": "10:30"
+    },
+    {
+      "sender": "Bob",
+      "content": "Not bad, you?",
+      "status": "delivered",
+      "timestamp": "10:32"
+    },
+    {
+      "sender": "Alice",
+      "content": "Doing pretty well, thanks!",
+      "status": "read",
+      "timestamp": "10:33"
+    },
+    {
+      "sender": "Bob",
+      "content": "Glad to hear it!",
+      "status": "delivered",
+      "timestamp": "10:35"
+    },
+    {
+      "sender": "Alice",
+      "content": "What are you up to today?",
+      "status": "delivered",
+      "timestamp": "11:00"
+    },
+    {
+      "sender": "Bob",
+      "content": "Just finishing up some work. How about you?",
+      "status": "sent",
+      "timestamp": "11:02"
+    },
+    {
+      "sender": "Alice",
+      "content": "Same here. Want to grab lunch together?",
+      "status": "read",
+      "timestamp": "11:05"
+    },
+    {
+      "sender": "Bob",
+      "content": "Sure, that sounds great. Where do you want to go?",
+      "status": "read",
+      "timestamp": "11:10"
+    },
+    {
+      "sender": "Alice",
+      "content": "How about that new place on Main Street?",
+      "status": "read",
+      "timestamp": "11:12"
+    },
+    {
+      "sender": "Bob",
+      "content": "Sounds good to me. What time?",
+      "status": "sent",
+      "timestamp": "11:15"
+    },
+    {
+      "sender": "Alice",
+      "content": "How about noon?",
+      "status": "sent",
+      "timestamp": "11:18"
+    },
+    {
+      "sender": "Bob",
+      "content": "Works for me. See you there!",
+      "status": "sent",
+      "timestamp": "11:20"
+    },
+    {
+      "sender": "Alice",
+      "content": "Great, see you then!",
+      "status": "sent",
+      "timestamp": "11:22"
+    },
+    {
+      "sender": "Bob",
+      "content": "I'm here. You?",
+      "status": "delivered",
+      "timestamp": "12:00"
+    },
+    {
+      "sender": "Alice",
+      "content": "Running a bit late. Be there in 5 minutes",
+      "status": "delivered",
+      "timestamp": "12:00"
+    }
+  ]
+}

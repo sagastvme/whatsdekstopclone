@@ -1,4 +1,4 @@
-# whatsdekstopclone
+# vue-project
 
 ## Project setup
 ```
